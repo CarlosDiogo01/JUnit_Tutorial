@@ -8,17 +8,17 @@ JUnit is a simple, open source framework to write and run repeatable tests. It i
 
 This tutorial explores
 ------------
-··* What is JUnit Framework ?
-··* Creating a Unit Test
-··* Creating test methods
-··* JUnit conventions
-··* JUnit API
-··* Annotation Types
-··* Testing Exceptions
-··* Performance Concerns: Using JUnit for performance evaluation
-··* Parameterized Tests
-··* Grouping tests using Suites
-··* Good Practices in Unit Testing
+- What is JUnit Framework ?
+- Creating a Unit Test
+- Creating test methods
+- JUnit conventions
+- JUnit API
+- Annotation Types
+- Testing Exceptions
+- Performance Concerns: Using JUnit for performance evaluation
+- Parameterized Tests
+- Grouping tests using Suites
+- Good Practices in Unit Testing
 
 
 Sources
