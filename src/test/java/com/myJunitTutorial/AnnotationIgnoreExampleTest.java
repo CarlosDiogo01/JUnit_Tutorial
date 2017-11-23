@@ -5,7 +5,7 @@ import org.junit.Test;
 import static org.junit.Assert.*;
 import org.junit.Ignore;
 
-public class AnnotationIgnoreExample {
+public class AnnotationIgnoreExampleTest {
 	
 	@Ignore("Test Not Ready | BankAccount class not implemented yet") 
 	@Test

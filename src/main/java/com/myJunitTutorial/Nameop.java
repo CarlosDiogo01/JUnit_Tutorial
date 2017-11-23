@@ -28,10 +28,5 @@ public class Nameop {
 	
 	return firstAndLastName;
 	}
-	
-	public void mySortMethod (String[] array) {
-		
-		//do nothing to the array
-	}
 }
 
